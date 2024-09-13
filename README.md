@@ -8,6 +8,8 @@ This tool allows you to create custom word search puzzles with ease. It is perfe
 2. Click on the ‘USE TEMPLATE‘ button in the top-right corner.
 3. Enter or paste a list of words in Column A, starting on cell A2.
 4. Click the ‘make puzzle + answer key‘ button.
+5. Play digitally by highlighting the cells for each word and clicking 'found word'.
+6. (optional) click 'make PDF' and print copies to play with pen & paper.
 
 The tool will automatically generate a word search puzzle by randomly placing the words in any possible direction within the grid. It will also color-code the cells containing the words to create an answer key.
 
