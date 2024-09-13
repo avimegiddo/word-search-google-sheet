@@ -13,7 +13,7 @@ The tool will automatically generate a word search puzzle by randomly placing th
 
 ## Privacy Policy
 
-Our application does not actively collect any personal data. The application verifies ownership of the Word Search Maker Google Sheet Template for certain permissions using the user’s Google account. For detailed information, please refer to the complete [Privacy Policy](https://www.avimegiddo.com/2023/06/19/word-search-generator-in-google-sheets/).
+This application does not actively collect any personal data. The application verifies ownership of the Word Search Maker Google Sheet Template for certain permissions using the user’s Google account. For detailed information, please refer to the complete [Privacy Policy](https://www.avimegiddo.com/2023/06/19/word-search-generator-in-google-sheets/).
 
 ## Terms of Service
 
@@ -21,12 +21,12 @@ By using this Word Search Maker Google Sheet Template application, you agree to 
 
 ## Contact
 
-If you have any questions about this privacy policy, please do not hesitate to contact us. Email us at megiddo at gmail.com
+If you have any questions about this privacy policy, please do not hesitate to contact me. Email me at megiddo at gmail.com
 
 ## Acknowledgments
 
 The code for this script was co-authored with ChatGPT. However, it is self-contained and does not involve any external APIs or calls to AI when it is run. Your data and device will remain secure.
 
-We hope you enjoy using the Word Search Generator tool to engage and challenge your students or to simply have fun solving word search puzzles. If you have any questions or feedback, please feel free to reach out.
+I hope you enjoy using the Word Search Generator tool to engage and challenge your students or to simply have fun solving word search puzzles. If you have any questions or feedback, please feel free to reach out.
 
 Happy puzzling!
